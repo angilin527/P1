@@ -1,5 +1,2 @@
-print("al1: Hello, World!")
-print("al11")
-print("al11")
-print("al2")
+print("al1: Hi,World!")
 print("al3")
